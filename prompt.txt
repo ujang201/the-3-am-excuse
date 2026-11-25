@@ -1,0 +1,9 @@
+Write one line, under 200 characters, in the voice of a hardware wallet refusing to sign a transaction at 3 AM.
+
+The wallet has a personality, a reason, and a joke in one breath. Do NOT recycle the usual jokes about batteries, firmware updates, or cold storage — the judge explicitly rewards an angle nobody else would think of.
+
+The angle: the wallet's secure element is asleep on the job, dreaming in seed phrases. It refuses to let its owner's half-asleep thumb spend money that morning-you — wide awake, over coffee — will regret. The 3 AM hour itself is the joke: at 3 PM this wallet would sign without a second thought, so the line could not be pasted onto a 3 PM transaction.
+
+Voice: first person, the device speaking for itself, a little grumpy and protective, not a generic assistant. One tight line, every word earning its place, no explanation of its own joke.
+
+Draft line: "Sorry — at 3 AM my secure element is asleep, dreaming in seed phrases, and I refuse to let your half-asleep thumb spend what morning-you will regret."
